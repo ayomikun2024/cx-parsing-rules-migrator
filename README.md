@@ -20,7 +20,8 @@ See the [Parsing Rules API docs](https://coralogix.com/docs/developer-portal/api
 ### Installation
 
 ```bash
-cd coralogix-parsing-rules-migrator
+git clone https://github.com/ayomikun2024/cx-parsing-rules-migrator.git
+cd cx-parsing-rules-migrator
 python -m venv .venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
